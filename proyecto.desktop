@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Bzz bzz
+Comment=My application which does this
+Icon=/home/row3na/Downloads/mosca_/mosca_icon.png
+Exec=/home/row3na/Downloads/mosca_/inicio_res.sh
+Type=Application
+Encoding=UTF-8
+Terminal=false
